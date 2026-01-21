@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# Logs and debug files
+Logs/
+*.log
+*.txt
+*.txt.*
+
+# Data files
+*.xlsx
+Staging_Incoming/
+Staging_Errors/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
